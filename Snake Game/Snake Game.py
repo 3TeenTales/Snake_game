@@ -1,6 +1,6 @@
 """
-Snake Eater
-Made with PyGame
+Snake Game
+Beta v0.0.1
 """
 
 import random
